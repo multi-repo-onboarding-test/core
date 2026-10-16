@@ -1,0 +1,4 @@
+knowledge_base:
+  code_guidelines:
+    filePatterns:
+      - CONTRIBUTING.md
